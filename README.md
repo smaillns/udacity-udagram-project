@@ -1,5 +1,5 @@
 # Udacity Cloud Devleloper
-## Project : Refactor Udagram App into Microservices and Deploy
+## Project : Refactor Udagram App into Microservices and Deploy it
 Standing up a kubernetes cluster on AWS using kops and Travis-CI as CI/CD Pipeline 
 
 #### Step0: Prepare the application to deploy 
